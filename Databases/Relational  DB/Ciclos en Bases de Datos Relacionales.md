@@ -118,7 +118,6 @@ En tu caso:
 
 ---
 
-![[Dned modelo de datos.png]]
 ### Por qué **no es un ciclo real**:
 
 - Aunque en el _modelo conceptual_ parezca que recorres el grafo y vuelves al punto de origen, **no hay ninguna clave foránea que cree una dependencia inversa directa** hacia `email_sender` desde el extremo opuesto.
