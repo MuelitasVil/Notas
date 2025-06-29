@@ -19,8 +19,3 @@ Ejemplo: Cuando estamos editando un registro este no puede ser leído hasta que 
 La durabilidad, es que siempre que exista una transacción, siempre va a persistir en la base de datos. 
 
 Ejemplo: En general es la base de sql. 
-
-
-
-
-- 
