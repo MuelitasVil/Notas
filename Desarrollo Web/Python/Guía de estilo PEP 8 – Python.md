@@ -195,6 +195,7 @@ def sumar(a, b):
 ## Recursos
 
   
+https://realpython.com/python-pep8
 
 - [PEP 8 en python.org](https://peps.python.org/pep-0008/)
 

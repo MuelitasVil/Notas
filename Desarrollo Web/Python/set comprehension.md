@@ -36,7 +36,9 @@ To create a set of squares of even numbers from a list:
 Python
 
 ```
-numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]even_squares = {n**2 for n in numbers if n % 2 == 0}print(even_squares)
+numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+even_squares = {n**2 for n in numbers if n % 2 == 0}
+print(even_squares)
 ```
 
 Output:
