@@ -1,5 +1,7 @@
 ---
-tags: [desarrollo-web, indice]
+tags:
+  - desarrollo-web
+  - indice
 ---
 # Índice de desarrollo web
 
